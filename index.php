@@ -4,12 +4,17 @@
   <meta charset="UTF-8">
   <title>Calculator Home</title>
   <link rel="stylesheet" href="./page/assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <script src="./assets/js/sript.js"></script>
+
+
 </head>
 <body>
   <div class="container">
     <div class="image-wrapper">
       <img src="calcu.png" alt="Calculator" class="title-image" />
-      <a href="calcu.php" class="start-button">Start</a>
+      <a href="./page/calcu.php" class="start-button">Start</a>
+
     </div>
   </div>
 </body>
