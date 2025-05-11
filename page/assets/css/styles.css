@@ -25,6 +25,7 @@
             width: 350px;
             padding: 30px;
             transition: transform 0.3s ease;
+            height: 600px;
         }
 
         .calculator-container:hover {
@@ -36,6 +37,7 @@
             color: var(--primary);
             margin-bottom: 30px;
             font-weight: 600;
+
         }
 
         .operation-buttons {
@@ -64,7 +66,7 @@
         }
 
         .input-group {
-            width: 93%;  /* Changed from previous value (likely 90-100%) */
+            width: 93%; 
             margin-right: 0 auto 10px auto;
             
 

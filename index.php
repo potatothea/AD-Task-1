@@ -5,8 +5,6 @@
   <title>Calculator Home</title>
   <link rel="stylesheet" href="./page/assets/css/style.css">
   
-
-
 </head>
 <body>
   <div class="container">
