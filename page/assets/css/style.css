@@ -7,9 +7,11 @@
     html, body {
       height: 100%;
       width: 100%;
-      font-family: 'Poppins', sans-serif;
       background-color: #fdf7f0;
       overflow-x: hidden;
+      font-family: 'Fredoka One', cursive;
+
+
     }
 
     .container {
@@ -32,6 +34,7 @@
     }
 
     .start-button {
+      font-family: 'Fredoka One', cursive;
       position: absolute;
       bottom: 80px;
       left: 50%;
@@ -47,9 +50,11 @@
       transition: all 0.3s ease-in-out;
       cursor: pointer;
       margin-bottom:120px;
+      box-shadow: 0 4px 0px rgba(231, 76, 60, 0.3);
+
     }
 
     .start-button:hover {
-      background-color: #ff1493;
+      background-color: #e479b2;
       transform: translateX(-50%) scale(1.1);
     }

@@ -64,7 +64,8 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
+    <title>Simple Calculator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./assets/css/styles.css">
     <script src="./assets/js/sripts.js"></script>
 </head>
@@ -121,6 +122,10 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
             <?php endif; ?>
         </div>
     </div>
+    <div class="calculator-wrapper">
+    </div>
+    <a href="index.php" class="back-arrow" title="Back to Home"></a>
+</div>
 
 </body>
-</html>
+</html>/
