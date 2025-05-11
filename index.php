@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <title>Calculator Home</title>
   <link rel="stylesheet" href="./page/assets/css/style.css">
-  <link rel="stylesheet" href="./assets/css/style.css">
-  <script src="./assets/js/sript.js"></script>
+  
 
 
 </head>

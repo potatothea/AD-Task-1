@@ -138,13 +138,13 @@
         }
 
         .clear-btn {
-            background-color: #ca5591;
+            background-color: var(--accent);
             width: 100%;
             margin-top: 10px;
         }
 
         .clear-btn:hover {
-            background-color: #df87c3;
+            background-color:  var(--accent);
         }
 
         .button-group {
