@@ -6,7 +6,7 @@ $operationName = '';
 $operationSymbol = '';
 
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
-    // Check if clear button was pressed
+   
     if (isset($_POST['clear'])) {
         $_POST = array();
         $result = null;
@@ -124,8 +124,8 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
     <div class="calculator-wrapper">
     </div>
-    <a href="index.php" class="back-arrow" title="Back to Home"></a>
+    <a href="../index.php" class="back-arrow" title="Back to Home"></a>
 </div>
 
 </body>
-</html>/
+</html>
