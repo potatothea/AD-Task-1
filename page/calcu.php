@@ -18,7 +18,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
         $num2 = isset($_POST['num2']) ? floatval($_POST['num2']) : 0;
         $operation = isset($_POST['operation']) ? $_POST['operation'] : '';
 
-        // Conditional validation
+        // Conditional 
         if (!is_numeric($num1)) {
             $error = "First number is invalid";
         } elseif(!is_numeric($num2)) {
