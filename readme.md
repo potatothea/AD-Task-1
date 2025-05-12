@@ -15,7 +15,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=potatothea/AD-Task-1)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime]([![wakatime](https://wakatime.com/badge/user/4cc26425-1bf1-4484-af4c-6c75d4fa58d8/project/7580efb9-f8ea-4f03-bb19-57d7910aad9e.svg)](https://wakatime.com/badge/user/4cc26425-1bf1-4484-af4c-6c75d4fa58d8/project/7580efb9-f8ea-4f03-bb19-57d7910aad9e))
 
 ---
 
