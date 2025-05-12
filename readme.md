@@ -53,14 +53,6 @@
 The Simple Calculator is an innovative project , showcasing the programmer skills in PHP, HTML, CSS, and JavaScript. This digital calculator mimics the functions of a real-life calculator, allowing users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. .The programmer utilized basics programming concepts like declarations, conditionals, and looping to build an efficient and user-friendly interface. Through this project  the programmereffectively combines technical skills and attention to detail, resulting in a practical and engaging tool for everyday mathematical tasks.
 
 
-### Key Components
-
-
-- Authentication & Authorization
-- CRUD Operations for Invetory System
-
-### Technology
-
 #### Language
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -87,7 +79,7 @@ The Simple Calculator is an innovative project , showcasing the programmer skill
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-Task-1
 └─ assets
 |   └─ css
 |   |   └─ name.css
@@ -101,12 +93,13 @@ AD-ProjectName
 |  └─ pageName
 |     └─ assets
 |     |  └─ css
-|     |  |  └─ name.css
+|     |  |  └─ style.css
+|     |  |  └─ styles.css
 |     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
+|     |  |  └─ calcu.png
 |     |  └─ js
-|     |     └─ name.js
-|     └─ index.php
+|     |     └─ scripts.js
+|     └─ calcu.php
 └─ utils
 |   └─ Name.utils.php
 └─ index.php
@@ -114,13 +107,3 @@ AD-ProjectName
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
-## Resources
-
-<!-- TODO: Add References -->
-
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
